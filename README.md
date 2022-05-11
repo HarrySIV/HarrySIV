@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @HarrySIV
+- 👀 I’m interested in coding, DnD, languages such as Korean, German, and Spanish, reading, and writing. 
+- 🌱 I’m currently learning Express, Next, and Mongoose.
