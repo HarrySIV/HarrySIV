@@ -1,3 +1,4 @@
-- 👋 Hi, I’m Harry
-- 👀 I’m interested in programming, Dungeons and Dragons, languages such as German and Korean, as well as reading and writing. 
-- 🌱 I’m currently learning TypeScript and Next.
++ 👋 Hi, I'm Harry!
++ 👀 I’m a JavaScript developer, proficient in TypeScript, React, Express, and other frameworks.
++ 🌱 Working on contributing to more OSS.
++ 🧠 I've got a lot of interests, but, most importantly, I love a good challenge! 
